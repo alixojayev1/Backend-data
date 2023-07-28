@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "sap_text": "python python",
+    "sup_categories_id": 1
+  },
+  {
+    "id": 2,
+    "sap_text": "java java",
+    "sup_categories_id": 2
+  },
+  {
+    "id": 3,
+    "sap_text": "smm smm",
+    "sup_categories_id": 7
+  },
+  {
+    "id": 4,
+    "sap_text": "brand brand",
+    "sup_categories_id": 8
+  }
+]

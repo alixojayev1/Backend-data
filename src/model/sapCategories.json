@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "sub_categories_text": "python",
+    "categories_id": 1
+  },
+  {
+    "id": 2,
+    "sub_categories_text": "java",
+    "categories_id": 1
+  },
+  {
+    "id": 3,
+    "sub_categories_text": "nodejs",
+    "categories_id": 1
+  },
+  {
+    "id": 4,
+    "sub_categories_text": "logo",
+    "categories_id": 2
+  },
+  {
+    "id": 5,
+    "sub_categories_text": "grafika",
+    "categories_id": 2
+  },
+  {
+    "id": 6,
+    "sub_categories_text": "shrift",
+    "categories_id": 2
+  },
+  {
+    "id": 7,
+    "sub_categories_text": "smm",
+    "categories_id": 3
+  },
+  {
+    "id": 8,
+    "sub_categories_text": "brand",
+    "categories_id": 3
+  },
+  {
+    "id": 9,
+    "sub_categories_text": "blog",
+    "categories_id": 3
+  }
+]
